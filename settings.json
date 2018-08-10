@@ -1,0 +1,10 @@
+{
+    "beautify.options": {
+        "newline-between-rules": true,
+        "selector-separator-newline": true
+    },
+    "phpfmt.smart_linebreak_after_curly": true,
+    "phpfmt.passes": ["AllmanStyleBraces"],
+    "explorer.confirmDelete": false,
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+}
